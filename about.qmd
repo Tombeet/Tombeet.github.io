@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: jolla
+  image: profile-pic.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-About this site
+## Hi there!
 
-```{r}
-1 + 1
-```
+I am a student at **SIT** and this is my personal Quarto website.
+
+When I'm not studying or working on data projects, you can usually find me on the court—I am a huge fan of **Badminton**! 🏸 I love the speed of the game and playing a few matches to stay active.
