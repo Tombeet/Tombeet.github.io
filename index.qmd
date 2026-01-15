@@ -1,11 +1,40 @@
 ---
-title: "website"
+
 ---
 
-This is a Quarto website.
+---
+title: "Welcome to My Digital Space"
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::::: columns
+::: {.column width="40%"}
+# Hello! 👋
 
-```{r}
-1 + 1
-```
+![](profile-pic.jpg){width="250px" style="border-radius: 50%;"}
+:::
+
+::: {.column width="60%"}
+## I am a Student at SIT
+
+I'm currently pursuing my degree at the **Singapore Institute of Technology**. I am passionate about learning new technologies and building impactful projects.
+
+Check out some of my favorite things below!
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### My Favorites 🌟
+
+Here are a few things I enjoy:
+
+| Tech | Hobbies |
+|:----------------------------------:|:----------------------------------:|
+| ![](https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/quarto.png){width="50"} | ☕ Coffee Brewing |
+| ![](https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png){width="50"} | 📸 Photography |
+
+------------------------------------------------------------------------
+
+### Contact Me
+
+Feel free to reach out via [Email](mailto:your.email@sit.edu.sg) or find me on [LinkedIn](https://linkedin.com).

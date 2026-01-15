@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "website"
+  title: "My Portfolio"
+  favicon: favicon.png  # Make sure to put an image named favicon.png in your folder
   navbar:
     left:
       - href: index.qmd
@@ -12,11 +12,6 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmos      # This provides a clean, modern font automatically
     css: styles.css
     toc: true
-
-editor: visual
-
