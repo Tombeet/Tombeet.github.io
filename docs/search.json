@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Welcome to My Digital Space",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m currently pursuing my degree at the Singapore Institute of Technology. I am passionate about learning new technologies and building impactful projects.\nCheck out some of my favorite things below!"
   },
   {
     "objectID": "about.html",
@@ -17,8 +17,8 @@
     "objectID": "index.html#i-am-a-student-at-sit",
     "href": "index.html#i-am-a-student-at-sit",
     "title": "Welcome to My Digital Space",
-    "section": "I am a Student at SIT",
-    "text": "I am a Student at SIT\nI’m currently pursuing my degree at the Singapore Institute of Technology. I am passionate about learning new technologies and building impactful projects.\nCheck out some of my favorite things below!"
+    "section": "",
+    "text": "I’m currently pursuing my degree at the Singapore Institute of Technology. I am passionate about learning new technologies and building impactful projects.\nCheck out some of my favorite things below!"
   },
   {
     "objectID": "about.html#hi-there",
